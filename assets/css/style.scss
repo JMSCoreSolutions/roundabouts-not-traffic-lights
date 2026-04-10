@@ -1,0 +1,33 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+.page-header {
+  background-image: linear-gradient(120deg, #5b2d8e, #8e44ad);
+}
+
+a {
+  color: #7d3caf;
+}
+
+a:hover {
+  color: #5b2d8e;
+}
+
+.btn {
+  border-color: #8e44ad;
+  color: #8e44ad;
+}
+
+.btn:hover {
+  background-color: #8e44ad;
+  border-color: #8e44ad;
+  color: #fff;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #5b2d8e;
+}
