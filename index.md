@@ -61,8 +61,10 @@ Building the roundabout is only half the job — people have to know how to driv
  
 ---
 
-## Thanks to all who attended my presentation! Below are my slides. Please reach out to me if you or your organization would like to discuss more about AI or AI governance!
-<object data="./JeannaSchoonmaker_AI_Governance2026.pptx" width="1000" height="1000" type='application/pdf'></object>
+## Thanks to all who attended my presentation on Tuesday, 4/6/2026 at the TAI Tech Summit! 
+
+Below are my slides. Please reach out to me if you or your organization would like to discuss more about AI or AI governance!
+<object data="/JeannaSchoonmaker_AI_Governance_2026.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ---
  
