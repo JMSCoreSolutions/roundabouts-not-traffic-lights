@@ -61,7 +61,7 @@ Building the roundabout is only half the job — people have to know how to driv
  
 ---
 
-## Thanks to all who attended my presentation on Tuesday, 4/6/2026 at the TAI Tech Summit.
+## Thanks to all who attended my presentation on Tuesday, 4/6/2026 at the TAI Tech Summit! I really appreciated the questions from audience members, as well as those who have followed up with questions and comments via LinkedIn.
 
 Below are my slides. Please reach out to me if you or your organization would like to discuss more about AI or AI governance!
 
@@ -74,11 +74,11 @@ Below are my slides. Please reach out to me if you or your organization would li
 ## Let's connect
  
 **Jeanna Schoonmaker**  
-Sr. Director, AI & Analytics — Insight Global  
+Sr. Director, AI & Analytics — <a href="linkedin.com/company/insight-global/" target="_blank">Insight Global</a>  
 <a href="https://www.linkedin.com/in/jeanna-schoonmaker" target="_blank">LinkedIn</a>
 
 
 <!--# Welcome! if you're here and wanting to know how to contact me via email, feel free to reach out to jms at jmscoresolutions.com -->
  
-*Presented at the TAI Iowa Technology Summit, Des Moines — 2026*
+*Presented at the <a href="https://www.linkedin.com/company/technology-association-of-iowa/" target="_blank">TAI</a> Iowa Technology Summit, Des Moines — 2026*
  
