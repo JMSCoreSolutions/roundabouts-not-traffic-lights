@@ -10,6 +10,7 @@ Don't build your governance program from scratch or in isolation.
  
 - Leverage existing frameworks — <a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank">NIST AI RMF</a> and <a href="https://www.iso.org/standard/81230.html" target="_blank">ISO 42001</a> are your map
 - Build a cross-functional coalition: legal, cybersecurity, a business champion, and someone with the technical expertise and interest to dive into the documentation.
+- Consider tools carefully and think about how you will maintain observability over the AI features folks in your org are using, as well as the data that flows through them. Kudos to the hard-working cybersecurity teams out there partnering to keep up with this ever-evolving space! 
 - **For smaller orgs:** your coalition might be a couple of people — someone who cares about risk, someone who talks to customers, and someone who actually uses the tools. Or it might be you and an AI tool you chat with about governance or an AI agent you build. If you need a friend on the journey, reach out to me with questions!
  
 ---
